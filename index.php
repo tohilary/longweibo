@@ -6,6 +6,7 @@
  * Time: 下午7:41
  * To change this template use File | Settings | File Templates.
  */
- 
- phpinfo();
- echo "fuck";
+define('APP_NAME', 'longweibo');
+define('APP_PATH', './');
+
+require('./ThinkPHP/ThinkPHP.php');
