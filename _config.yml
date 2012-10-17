@@ -17,6 +17,7 @@ follow:
 description:      "PIZn's blog theme -- Black Cube Theme 1.0 "
 
 
-style: 			  longweibo/css/style.css
+style: 			  css/style.css
+image:			  images
 blogName: 		  PIZn
 blogDesc: 		  Phosphorus,Iodine & Zinc.
